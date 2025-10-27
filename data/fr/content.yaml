@@ -13,9 +13,7 @@ BasicInfo:
       Info: Toulouse, France
 
 Profile : Architecte Infrastructure et DevOps, expert Linux avec plus de 15 ans d'expérience dans la conception, l'industrialisation et l'optimisation d'infrastructures critiques. Spécialisé dans la virtualisation avancée, l'orchestration de conteneurs, et l'automatisation des workflows CI/CD.
-
-Passionné par la transformation des environnements IT en infrastructures résilientes, scalables et sécurisées, j'ai piloté des projets complexes incluant :
-
+Passionné par la transformation des environnements IT en infrastructures résilientes, scalables et sécurisées, j'ai piloté des projets complexes incluant \:
   - Conception et déploiement de clusters Linux hybrides et Kubernetes on-premise.
   - Industrialisation de solutions d'hébergement virtualisées (Proxmox, VMware, Hyper-V) et migration de plateformes critiques.
   - Automatisation des processus DevOps (Ansible, GitLab CI/CD, Jenkins) et supervision avancée (ELK, Prometheus, Grafana).
@@ -243,35 +241,28 @@ Skills:
       - Kubernetes On premise
       - Conteneurs Microservices
 
-  - Family: Conteneurisation
+  - Family: Conteneurisation & Orchestration
     Items:
+      - Kubernetes
+      - Rancher
       - Docker
       - Podman
       - LXC
       - Jail FreeBSD
 
-  - Family: Orchestration
-    Items:
-      - Kubernetes
-      - Rancher
-      - Swarm
-
-  - Family: Gestion de versions
+  - Family: Gestion de versions & CI-CD
     Items:
       - Git
       - Subversion (SVN)
-
-  - Family: Forges (CI-CD)
-    Items:
       - GitLab CI
       - GitHub Actions
       - Jenkins
 
-  - Family: Gestion de conf (IaC)
+  - Family: Gestion de configuration (IaC)
     Items:
       - Ansible
-      - Puppet
       - Salt
+      - Puppet
 
   - Family: Supervision & Métrologie
     Items:
@@ -301,6 +292,12 @@ Skills:
       - Stormshield
       - Cisco
       - Juniper
+
+  - Family: Annuaires
+    Items:
+      - Active Directory
+      - FreeIPA
+      - Univention UCS
 
   - Family: Virtualisation
     Items:
