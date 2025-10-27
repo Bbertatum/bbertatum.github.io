@@ -1,0 +1,30 @@
+languageCode = "fr-fr"
+defaultContentLanguage = "fr"
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://example.com/"
+title = "Bertrand Cebador - Architecte Infra - DevOps - Expert Linux"
+#googleAnalytics = ""
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#213b5b"
+colorPageBackground = "#ddd"
+colorPrimary = "#589cf3"
+colorSecondary = "#aaa"
+colorIconPrimary = "#fff"
+colorIconBackground = "#589cf3"
+colorRightColumnBackground = "#f5f5f5"
+colorRightColumnHeadingText = "#000000ff"
+colorRightColumnBodyText = "#666"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#589cf3"
+pages = 4
+# Set this param to 'true' to swap the bar positions
+swapColumns = false
+footerNote = "2025 © by Bertrand Cebador   | 2backup.fr"
