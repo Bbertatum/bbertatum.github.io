@@ -19,9 +19,9 @@
         {{ with $data.BasicInfo.Photo }}
             <meta property="og:image" content="{{ . | absURL }}" />
         {{ end }}
-        {{ with $data.Profile | htmlUnescape | emojify | truncate 200 }}
-            <meta property="og:description" content="{{ . }}" />
-            <meta name="description" content="{{ . }}" />
+        {{ with $data.Profile.Text }}
+            <meta property="og:description" content="{{ . | emojify | truncate 200 }}" />
+            <meta name="description" content="{{ . | emojify | truncate 200 }}" />
         {{ end }}
     {{ end }}
 

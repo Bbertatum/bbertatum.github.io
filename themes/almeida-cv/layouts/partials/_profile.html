@@ -1,10 +1,17 @@
-{{ if .Profile }}
+{{ with .Profile }}
 <div id="profile" class="section">
     <div class="section__heading">
         <h2 class="section__title">{{ i18n "profile" }}</h2>
     </div>
     <div class="section__content">
-        <p>{{ .Profile | safeHTML | emojify }}</p>
+        <p>{{ .Text | safeHTML }}</p>
+        {{ if .Details }}
+        <ul>
+            {{ range .Details }}
+            <li class="experience__bullet">{{ . | safeHTML }}</li>
+            {{ end }}
+        </ul>
+        {{ end }}
     </div>
 </div>
 {{ end }}

@@ -12,13 +12,14 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Toulouse, France
 
-Profile : Architecte Infrastructure et DevOps, expert Linux avec plus de 15 ans d'expérience dans la conception, l'industrialisation et l'optimisation d'infrastructures critiques. Spécialisé dans la virtualisation avancée, l'orchestration de conteneurs, et l'automatisation des workflows CI/CD. Passionné par la transformation des environnements IT en infrastructures résilientes, scalables et sécurisées, j'ai piloté différents projets complexes incluant
-  - Conception et déploiement de clusters Linux hybrides et Kubernetes on-premise.
-  - Industrialisation de solutions d'hébergement virtualisées (Proxmox, VMware, Hyper-V) et migration de plateformes critiques.
-  - Conception des processus de déploiement automatisée (Ansible, GitLab CI/CD, Jenkins) et supervision avancée (ELK, Prometheus, Grafana).
-  - Sécurisation des infrastructures (audits et réponse à audit avec durcissement, gestion des vulnérabilités).
-  - Optimisation des performances et des coûts, avec une approche orientée SLA et qualité de service.
-
+Profile:
+  Text: "Architecte Infrastructure et DevOps, expert Linux avec plus de 15 ans d'expérience dans la conception, l'industrialisation et l'optimisation d'infrastructures critiques. Spécialisé dans les architectures complexes trois tiers, et la réalisation de pipeline CI/CD en accord avec les process métiers. Passionné par la transformation des environnements IT en infrastructures résilientes, scalables et sécurisées, j'ai piloté différents projets complexes incluant:"
+  Details:
+    - Conception et déploiement de clusters Linux hybrides et Kubernetes on-premise.
+    - Industrialisation des déploiements et migration de plateformes critiques.
+    - Exploitation et gestion des cycles de vie des plateformes par l'observabilité (Grafana, Prometheus, Centreon, Zabbix).
+    - Sécurisation d'infrastructures (passage d'audits ou mise en place mitigation suite audit).
+    - Amélioration continue avec une approche orientée SLA et qualité de service.
 
 Experience:
   - Employer: Human’s Connexion
