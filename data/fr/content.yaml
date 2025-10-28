@@ -17,8 +17,8 @@ Profile:
   Details:
     - Conception et déploiement de clusters Linux hybrides et Kubernetes on-premise.
     - Industrialisation des déploiements et migration de plateformes critiques.
-    - Exploitation et gestion des cycles de vie des plateformes par l'observabilité (Grafana, Prometheus, Centreon, Zabbix).
-    - Sécurisation d'infrastructures (passage d'audits ou mise en place mitigation suite audit).
+    - Exploitation et gestion des cycles de vie des plateformes par l'observabilité.
+    - Sécurisation d'infrastructures, audit, durcissement des configurations.
     - Amélioration continue avec une approche orientée SLA et qualité de service.
 
 Experience:
