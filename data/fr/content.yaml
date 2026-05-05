@@ -25,7 +25,7 @@ Experience:
   - Employer: GTD international
     Place: Toulouse, France
     Positions:
-      - Title: Tech Lead, DevOps, Linux expert
+      - Title: Tech Lead, DevOps, expert Linux
         Date: Avril 2026 - Aujourd'hui
         Details:
           - Revue et complétion DAT, procédures, inventaire
@@ -37,7 +37,7 @@ Experience:
   - Employer: Human’s Connexion
     Place: Toulouse, France
     Positions:
-      - Title: Team Lead, DevOps, Linux expert
+      - Title: Team Lead, DevOps, expert Linux
         Date: Mars 2024 - Mars 2026
         Details:
           - Organisation de l’activité équipe infra/IT
@@ -57,7 +57,7 @@ Experience:
   - Employer: Sigilence Technologies
     Place: Toulouse, France
     Positions:
-      - Title: Ingénieur Systèmes & Tech Lead
+      - Title: Ingénieur système, Tech Lead
         Date: Octobre 2023 - Février 2024
         Details:
           - MCO & MCS des équipements
@@ -68,19 +68,19 @@ Experience:
   - Employer: Nfrance
     Place: Toulouse, France
     Positions:
-      - Title: Ingénieur SysOps & Chef de projet
+      - Title: Ingénieur DevOps, Chef de projet
         Date: Décembre 2018 - Septembre 2023
         Details:
           - Réponses à appels d’offres
-          - Design et build infrastructures clients
-          - Production informatique (préparation de la certification ISO 27001)
+          - Conception et déploiement infrastructures clients
+          - Industrialisation des workflows clients
+          - Automatisation des process de build et d'exploitation avec Ansible & Gitlab
+          - Définition des pratiques (Certification ISO 27001)
           - Gestion des demandes de service, incidents, et changements
           - Recueil des besoins clients
           - Installation ELK en remplacement de Pentaho
           - Comités de pilotages et d’exploitations
           - Suivi de la qualité de service au travers des SLA
-          - Industrialisation des workflows clients
-          - Automatisation des process de build et d'exploitation avec Ansible & Gitlab
           - Évolutions et optimisation d’infrastructures internes
           - Refonte du système de supervision
           - Formation des nouveaux arrivants à Ansible et Gitlab
@@ -89,7 +89,7 @@ Experience:
   - Employer: Airbus OneWeb Satellites
     Place: Toulouse, France
     Positions:
-      - Title: Administration système Linux & Windows
+      - Title: Ingénieur système Linux & Windows
         Date: Mars 2018 - Septembre 2018
         Details:
           - MCO, MCS des équipements virtuels et physiques
@@ -103,7 +103,7 @@ Experience:
   - Employer: La Banque Postale
     Place: Toulouse, France
     Positions:
-      - Title: Administration système Linux, Windows
+      - Title: Ingénieur système Linux & Windows
         Date: Octobre 2018
         Details:
           - Monitoring Nagios, Patrol, création de sondes et mise en surveillance d’équipements
@@ -112,7 +112,7 @@ Experience:
   - Employer: Airbus Géo
     Place: Toulouse, France
     Positions:
-      - Title: Administration système Linux, Windows
+      - Title: Ingénieur système Linux & Windows
         Date: Septembre 2017
         Details:
           - Création d’un Master Linux (Red-Hat) pour les postes utilisateurs
@@ -125,18 +125,18 @@ Experience:
   - Employer: Nfrance
     Place: Toulouse, France
     Positions:
-      - Title: Ingénieur Systèmes
+      - Title: Ingénieur système Linux
         Date: Mars - Juillet 2017
         Details:
           - Mise en place de process automatisés scripting SHELL FreeBSD/Linux
           - Exploitation, monitoring Centreon
-          - Étude (POC) sur plateforme hébergement virtuelle à base de conteneurs LXC
+          - Étude de viabilité plateforme hébergement virtuel en conteneurs (LXC)
         Badges: ['CentOS', 'Debian', 'FreeBSD', 'Redmine', 'Centreon', 'XenServer']
 
   - Employer: ATOS
     Place: Toulouse, France
     Positions:
-      - Title: Administration système Linux, Windows
+      - Title: Ingénieur système Linux, Windows
         Date: Février – Avril 2016
         Details:
           - Administration active directory (magret) pour les Lycées
@@ -148,7 +148,7 @@ Experience:
   - Employer: 2backup
     Place: Toulouse, France
     Positions:
-      - Title: Administration système Linux, Windows
+      - Title: Ingénieur système Linux, Windows
         Date: Janvier 2015 – Février 2016
         Details:
           - Administration, maintenance et évolution d'infrastructure
@@ -160,7 +160,7 @@ Experience:
   - Employer: Airbus D.S
     Place: Toulouse, France
     Positions:
-      - Title: Administrateur Systèmes
+      - Title: Ingénieur système Linux
         Date: Septembre - Décembre 2014
         Details:
           - Étude du système de sauvegarde, refonte, mise en production et documentation
@@ -177,7 +177,7 @@ Experience:
   - Employer: X-Prime
     Place: Toulouse, France
     Positions:
-      - Title: Ingénieur Système
+      - Title: Administrateur système
         Date: Novembre 2013 – Mai 2014
         Details:
           - Administration, maintenance et évolution de l'infrastructure virtualisée (VMWARE)
@@ -193,7 +193,7 @@ Experience:
   - Employer: Nfrance
     Place: Toulouse, France
     Positions:
-      - Title: Administrateur Système
+      - Title: Administrateur système
         Date: Octobre 2010 - Septembre 2013
         Details:
           - Exploitation, administration système, support, datacenter
@@ -206,7 +206,7 @@ Experience:
           - Astreintes pour interventions hardware, diagnostic
           - Prise d'appel support technique niveaux I, II et III
           - Webmastering
-        Badges: ['FreeBSD', 'Debian Linux', 'Munin', 'Postfix', 'Apache PHP', 'MySQL', 'PostgreSQL']
+        Badges: ['FreeBSD', 'Debian', 'Munin', 'Postfix', 'Apache PHP', 'MySQL', 'PostgreSQL']
 
 Education:
 
