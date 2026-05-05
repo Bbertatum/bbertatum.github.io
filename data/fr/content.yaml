@@ -84,7 +84,7 @@ Experience:
           - Évolutions et optimisation d’infrastructures internes
           - Refonte du système de supervision
           - Formation des nouveaux arrivants à Ansible et Gitlab
-        Badges: ['GitLab', 'CentOS/RedHat', 'Debian Linux', 'FreeBSD', 'Ansible', 'Foreman', 'Redmine', 'Centreon', 'Grafana', 'Kubernetes', 'Prometheus', 'ELK']
+        Badges: ['GitLab', 'CentOS/RedHat', 'Debian', 'FreeBSD', 'Ansible', 'Foreman', 'Redmine', 'Centreon', 'Grafana', 'Kubernetes', 'Prometheus', 'ELK']
 
   - Employer: Airbus OneWeb Satellites
     Place: Toulouse, France
@@ -97,7 +97,7 @@ Experience:
           - Intégration VM Linux à Active Directory (via Ansible)
           - Gestion infra VMware
           - Gestion de configuration sur équipements de test satellites
-          - Mise en œuvre liferay.D
+          - Mise en œuvre liferay
         Badges: ['GitLab', 'CentOS/RedHat', 'Centreon', 'Grafana', 'ELK', 'Windows', 'VmWare', 'Veeam', 'Active Directory', 'StormShield', 'Fortigate']
 
   - Employer: La Banque Postale
@@ -107,7 +107,7 @@ Experience:
         Date: Octobre 2018
         Details:
           - Monitoring Nagios, Patrol, création de sondes et mise en surveillance d’équipements
-        Badges: ['Nagios', 'Patrol', 'Centreon', 'Linux', 'AIX']
+        Badges: ['Nagios', 'Patrol', 'Centreon', 'Red-Hat', 'AIX']
 
   - Employer: Airbus Géo
     Place: Toulouse, France
@@ -131,7 +131,7 @@ Experience:
           - Mise en place de process automatisés scripting SHELL FreeBSD/Linux
           - Exploitation, monitoring Centreon
           - Étude (POC) sur plateforme hébergement virtuelle à base de conteneurs LXC
-        Badges: ['CentOS', 'Debian Linux', 'FreeBSD', 'Redmine', 'Centreon', 'XenServer']
+        Badges: ['CentOS', 'Debian', 'FreeBSD', 'Redmine', 'Centreon', 'XenServer']
 
   - Employer: ATOS
     Place: Toulouse, France
@@ -143,7 +143,7 @@ Experience:
           - Inventaire de matériel pour OCS/GLPI (Windows/Linux/FreeBSD)
           - Installation VM CentOS sous Hyper-V
           - Paramétrage et documentation PFSense
-        Badges: ['Ubuntu', 'CentOS Linux', 'Windows', 'Centreon', 'HyperV', 'PF sense', 'GLPI']
+        Badges: ['Ubuntu', 'CentOS', 'Windows', 'Centreon', 'HyperV', 'PF sense', 'GLPI']
 
   - Employer: 2backup
     Place: Toulouse, France
@@ -155,7 +155,7 @@ Experience:
           - Prestations ponctuelles de service externalisée, gestion de parc
           - MCO et migration de serveurs web et messagerie
           - Déploiement et configuration de matériel réseau et serveurs
-        Badges: ['Proxmox', 'Debian Linux', 'Munin', 'Postfix', 'Apache']
+        Badges: ['Proxmox', 'Debian', 'Munin', 'Postfix', 'Apache']
 
   - Employer: Airbus D.S
     Place: Toulouse, France
@@ -172,7 +172,7 @@ Experience:
           - Correction de failles de sécurité
           - Création de script de test de flux réseaux
           - Mise à niveau firewall applicatif
-        Badges: ['VMware', 'Debian Linux', 'CentOS', 'Apache PHP', 'MySQL', 'WAF Bee Ware']
+        Badges: ['VMware', 'Debian', 'CentOS', 'Apache PHP', 'MySQL', 'WAF Bee Ware']
 
   - Employer: X-Prime
     Place: Toulouse, France
@@ -188,7 +188,7 @@ Experience:
           - Rédaction de la documentation technique et des procédures
           - Accompagnement des chefs de projets sur la partie technique hébergement
           - Veille technologique/R&D sur les nouvelles technologies web (nodeJS/Nginx)
-        Badges: ['Proxmox', 'FreeNAS', 'Debian Linux', 'Munin', 'Postfix', 'Apache PHP', 'MySQL']
+        Badges: ['Proxmox', 'FreeNAS', 'Debian', 'Munin', 'Postfix', 'Apache PHP', 'MySQL']
 
   - Employer: Nfrance
     Place: Toulouse, France
