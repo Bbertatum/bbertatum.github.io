@@ -22,11 +22,23 @@ Profile:
     - Amélioration continue avec une approche orientée SLA et qualité de service.
 
 Experience:
+  - Employer: GTD international
+    Place: Toulouse, France
+    Positions:
+      - Title: Tech Lead, DevOps, Linux expert
+        Date: Avril 2026 - Aujourd'hui
+        Details:
+          - Revue et complétion DAT, procédures, inventaire
+          - MCO & MCS du parc
+          - Revue et durcissement Firewall
+          - Mise en production application métier
+          - Support interne
+        Badges: ['Gitlab', 'Debian', 'Ansible', 'GLPI', 'Zabbix', 'Stormshield', 'Proxmox']
   - Employer: Human’s Connexion
     Place: Toulouse, France
     Positions:
       - Title: Team Lead, DevOps, Linux expert
-        Date: Mars 2024 - Aujourd’hui
+        Date: Mars 2024 - Mars 2026
         Details:
           - Organisation de l’activité équipe infra/IT
           - Ritualisation du suivi hebdomadaire de l’activité
@@ -108,7 +120,7 @@ Experience:
           - Production de l’image système cible
           - Test de la solution (interconnexion avec l’existant)
           - Industrialisation de la solution d’install (install via PXE)
-        Badges: ['Linux (Red-Hat)', 'Windows', 'SCCM', 'MDT']
+        Badges: ['Red-Hat', 'Windows', 'SCCM', 'MDT']
 
   - Employer: Nfrance
     Place: Toulouse, France
@@ -281,10 +293,8 @@ Skills:
 
   - Family: Systèmes (OS)
     Items:
-      - Linux (Debian,Ubuntu,RHEL,Gentoo)
+      - Linux*(Debian,Ubuntu,Red-Hat,CentOS,Gentoo)
       - Windows (Server2022 à 2012)
-      - Ubuntu
-      - CentOS
       - FreeBSD
 
   - Family: Réseau
