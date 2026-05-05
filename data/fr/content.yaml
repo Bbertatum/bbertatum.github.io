@@ -57,18 +57,18 @@ Experience:
   - Employer: Sigilence Technologies
     Place: Toulouse, France
     Positions:
-      - Title: Ingénieur système, Tech Lead
+      - Title: Tech Lead, DevOps
         Date: Octobre 2023 - Février 2024
         Details:
           - MCO & MCS des équipements
           - Industrialisation de l’infrastructure
           - Packaging Debian DevOps
-        Badges: ['GitLab', 'Debian Linux', 'Ansible', 'Redmine', 'Zabbix']
+        Badges: ['GitLab', 'Debian', 'Ansible', 'Redmine', 'Zabbix']
 
   - Employer: Nfrance
     Place: Toulouse, France
     Positions:
-      - Title: Ingénieur DevOps, Chef de projet
+      - Title: Tech lead, DevOps, Chef de projet
         Date: Décembre 2018 - Septembre 2023
         Details:
           - Réponses à appels d’offres
@@ -89,7 +89,7 @@ Experience:
   - Employer: Airbus OneWeb Satellites
     Place: Toulouse, France
     Positions:
-      - Title: Ingénieur système Linux & Windows
+      - Title: Ingénieur système
         Date: Mars 2018 - Septembre 2018
         Details:
           - MCO, MCS des équipements virtuels et physiques
@@ -103,7 +103,7 @@ Experience:
   - Employer: La Banque Postale
     Place: Toulouse, France
     Positions:
-      - Title: Ingénieur système Linux & Windows
+      - Title: Ingénieur système
         Date: Octobre 2018
         Details:
           - Monitoring Nagios, Patrol, création de sondes et mise en surveillance d’équipements
@@ -112,7 +112,7 @@ Experience:
   - Employer: Airbus Géo
     Place: Toulouse, France
     Positions:
-      - Title: Ingénieur système Linux & Windows
+      - Title: Ingénieur système
         Date: Septembre 2017
         Details:
           - Création d’un Master Linux (Red-Hat) pour les postes utilisateurs
@@ -125,7 +125,7 @@ Experience:
   - Employer: Nfrance
     Place: Toulouse, France
     Positions:
-      - Title: Ingénieur système Linux
+      - Title: Ingénieur système
         Date: Mars - Juillet 2017
         Details:
           - Mise en place de process automatisés scripting SHELL FreeBSD/Linux
@@ -136,7 +136,7 @@ Experience:
   - Employer: ATOS
     Place: Toulouse, France
     Positions:
-      - Title: Ingénieur système Linux, Windows
+      - Title: Ingénieur système
         Date: Février – Avril 2016
         Details:
           - Administration active directory (magret) pour les Lycées
@@ -148,7 +148,7 @@ Experience:
   - Employer: 2backup
     Place: Toulouse, France
     Positions:
-      - Title: Ingénieur système Linux, Windows
+      - Title: Ingénieur système
         Date: Janvier 2015 – Février 2016
         Details:
           - Administration, maintenance et évolution d'infrastructure
@@ -160,7 +160,7 @@ Experience:
   - Employer: Airbus D.S
     Place: Toulouse, France
     Positions:
-      - Title: Ingénieur système Linux
+      - Title: Ingénieur système
         Date: Septembre - Décembre 2014
         Details:
           - Étude du système de sauvegarde, refonte, mise en production et documentation
