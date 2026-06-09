@@ -1,1 +1,21 @@
-// override me
+@media print {
+
+  // Permet à la colonne de droite de s'étendre sur plusieurs pages
+  .right-column {
+    break-inside: auto !important;
+    overflow: visible !important;
+  }
+
+  // Permet à chaque section/bloc de droite de traverser les pages
+  .right-column > * {
+    break-inside: auto !important;
+  }
+
+  // Si les blocs (certifications, skills) ont eux-mêmes un avoid, on le lève
+  .right-column section,
+  .right-column .section,
+  .right-column .block {
+    break-inside: auto !important;
+    page-break-inside: auto !important; // compatibilité anciens navigateurs
+  }
+}
