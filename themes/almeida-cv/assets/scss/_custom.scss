@@ -1,21 +1,8 @@
 @media print {
-
-  // Permet à la colonne de droite de s'étendre sur plusieurs pages
-  .right-column {
+  // Annule le page-break-inside: avoid sur les blocs de la colonne droite
+  // pour permettre au bloc Skills (trop grand) de s'étaler sur 2 pages
+  .sideSection {
+    page-break-inside: auto !important;
     break-inside: auto !important;
-    overflow: visible !important;
-  }
-
-  // Permet à chaque section/bloc de droite de traverser les pages
-  .right-column > * {
-    break-inside: auto !important;
-  }
-
-  // Si les blocs (certifications, skills) ont eux-mêmes un avoid, on le lève
-  .right-column section,
-  .right-column .section,
-  .right-column .block {
-    break-inside: auto !important;
-    page-break-inside: auto !important; // compatibilité anciens navigateurs
   }
 }
